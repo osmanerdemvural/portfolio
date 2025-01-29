@@ -10,7 +10,7 @@ export default function About() {
           </tr>
           <tr>
                <td>
-               <div><img className="photo" src="img/photo.png"/></div>
+               <div><img className="photo" src="/photo.png"/></div>
                Hello! I am an experienced professional with a diverse background spanning over 15 years in the finance, technology, and entrepreneurial sectors. My career journey has been shaped by my passion for innovation, strategic problem-solving, and continuous learning.
 
 Professional Experience

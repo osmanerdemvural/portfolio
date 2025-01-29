@@ -5,7 +5,7 @@ export default function Layout() {
  <><table id="layout">
     <tr>
         <td>
-        <img  src="img/banner.png"></img>
+        <img  src="/banner.png"></img>
         </td>
         </tr>
         <tr>
